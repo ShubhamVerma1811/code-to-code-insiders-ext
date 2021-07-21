@@ -4,7 +4,7 @@
 
 After installation, you'll see the icon in the menu bar on the browser.
 
-![](./assets/capture.png)
+![](https://raw.githubusercontent.com/ShubhamVerma1811/code-to-code-insiders-ext/main/assets/Capture.PNG)
 
 - Clicking on it would toggle between VSCode and VSCode Insiders.
 - If the **Green VSCode icon** is seen, it means all the links would open in **VSCode Insiders**.
