@@ -15,7 +15,9 @@
   ],
   "description": "Lets you open VSCode links into VSCode Insiders",
   "icons": {
-    "19": "./assets/code-insiders-19.png"
+    "16": "./assets/logo-16.png",
+    "48": "./assets/logo-48.png",
+    "128": "./assets/logo-128.png"
   },
   "manifest_version": 2,
   "name": "Code-to-Code-Insiders",
